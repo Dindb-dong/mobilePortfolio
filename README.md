@@ -1,4 +1,4 @@
-# wallet
+# smallPortfolio
 
 A new Flutter project.
 
